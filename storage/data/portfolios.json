@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "type": "Social Life",
+        "title": "Enjoy your social life together",
+        "img": "assets/img/blog/cat-post/cat-post-3.jpg",
+        "feature_img": "assets/img/blog/feature-img1.jpg",
+        "details": "Details 1"
+    },
+    {
+        "id": "2",
+        "type": "Politics",
+        "title": "Be a part of politics",
+        "img": "assets/img/blog/cat-post/cat-post-2.jpg",
+        "feature_img": "assets/img/blog/feature-img1.jpg",
+        "details": "Details 2"
+    },
+    {
+        "id": "3",
+        "type": "Food",
+        "title": "Let the food be finished",
+        "img": "assets/img/blog/cat-post/cat-post-1.jpg",
+        "feature_img": "assets/img/blog/feature-img1.jpg",
+        "details": "Details 3"
+    },
+    {
+        "id": "4",
+        "type": "Travel",
+        "title": "Enjoy your travel",
+        "img": "assets/img/blog/cat-post/cat-post-3.jpg",
+        "feature_img": "assets/img/blog/feature-img1.jpg",
+        "details": "Details 4"
+    }
+
+]

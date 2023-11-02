@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "designation": "Sr. Software Engineer",
+        "company": "Encoding Ltd",
+        "start_date": "Jan 2023",
+        "end_date": "Present",
+        "address": "Santa monica, Los angeles"
+    },
+    {
+        "id": "2",
+        "designation": "Software Engineer",
+        "company": "ByteCode Ltd",
+        "start_date": "Jan 2018",
+        "end_date": "Dec 2022",
+        "address": "Santa monica, Los angeles"
+    },
+    {
+        "id": "3",
+        "designation": "Software Engineer",
+        "company": "Therap Ltd",
+        "start_date": "Jan 2014",
+        "end_date": "Dec 2017",
+        "address": "Santa monica, Los angeles"
+    },
+    {
+        "id": "4",
+        "designation": "Trainee Software Engineer",
+        "company": "BJIT Ltd",
+        "start_date": "Jan 2013",
+        "end_date": "Dec 2013",
+        "address": "Santa monica, Los angeles"
+    }
+
+]
